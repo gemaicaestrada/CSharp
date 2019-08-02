@@ -1,0 +1,7 @@
+C:\Users\EDITH\Documents\CSharp\Code_Files_Sharp_SBS_9E\MaxNumber\bin\Debug\MaxNumber.exe.config
+C:\Users\EDITH\Documents\CSharp\Code_Files_Sharp_SBS_9E\MaxNumber\bin\Debug\MaxNumber.exe
+C:\Users\EDITH\Documents\CSharp\Code_Files_Sharp_SBS_9E\MaxNumber\bin\Debug\MaxNumber.pdb
+C:\Users\EDITH\Documents\CSharp\Code_Files_Sharp_SBS_9E\MaxNumber\obj\Debug\MaxNumber.csprojAssemblyReference.cache
+C:\Users\EDITH\Documents\CSharp\Code_Files_Sharp_SBS_9E\MaxNumber\obj\Debug\MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\EDITH\Documents\CSharp\Code_Files_Sharp_SBS_9E\MaxNumber\obj\Debug\MaxNumber.exe
+C:\Users\EDITH\Documents\CSharp\Code_Files_Sharp_SBS_9E\MaxNumber\obj\Debug\MaxNumber.pdb
